@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'app-root',
-  template: '<h1>My App</h1>'
+  selector: 'mw-app', 
+  template: '<h1>My App 2</h1><p>Keeping track of the media I want to wathc.</p>'
 })
 export class AppComponent {}

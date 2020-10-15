@@ -27,3 +27,15 @@ body {
   height: 100vh;
   font-family: Arial, Helvetica, sans-serif;
 }
+
+h1 {
+  font-size: 1.3em;
+  color:  white;
+  font-weight: bold;
+  padding: 1.3em;
+}
+p {
+  font-size: 1.1em;
+  color:  white;
+  padding: 1.1em;  
+}
