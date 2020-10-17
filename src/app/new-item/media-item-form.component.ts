@@ -19,7 +19,7 @@ export class MediaItemFormComponent implements OnInit {
     private router: Router) {}
 
   ngOnInit() {
-    this.form = this.formBuilder.group({
+    this.form = this.formBuilder.group({ 
       medium: this.formBuilder.control('Movies'),
       name: this.formBuilder.control('', Validators.compose([
         Validators.required,
