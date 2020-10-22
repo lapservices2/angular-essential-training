@@ -14,7 +14,7 @@ import { routing } from './app.routing';
   imports: [
     BrowserModule,
     HttpClientModule,
-    routing,
+    routing
   ],
   declarations: [
     AppComponent,
